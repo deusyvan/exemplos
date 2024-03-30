@@ -1,5 +1,5 @@
 <?php
-echo "hello-world";
+echo "hello-world resolve bug";
 phpinfo();
 echo "hello-world stash";
 ?>
