@@ -89,5 +89,8 @@ echo '
   222  clear
   223  history
 ';
+echo "hello-world resolve bug";
+phpinfo();
+echo "hello-world stash";
 ?>
 
